@@ -1,0 +1,6 @@
+﻿.env
+infra/seaweedfs/s3.json
+node_modules/
+target/
+dist/
+
